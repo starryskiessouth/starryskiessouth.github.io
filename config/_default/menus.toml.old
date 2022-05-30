@@ -1,0 +1,126 @@
+[[main]]
+    name = "About Us"
+    weight = 30
+[[main]]
+    parent = "About Us"
+    name = "Mission & Goals"
+    weight = 31
+    url = "/about/mission"
+[[main]]
+    parent = "About Us"
+    name = "Member Profiles"
+    weight = 32
+    url = "/about/members"
+[[main]]
+    parent = "About Us"
+    name = "Our Region"
+    weight = 33
+    url = "/about/region"
+[[main]]
+    parent = "About Us"
+    name = "Partner Organizations"
+    weight = 34
+    url = "/about/partners"
+[[main]]
+    parent = "About Us"
+    name = "Acknowledgements"
+    weight = 35
+    url = "/about/acknowledgements"
+[[main]]
+    name = "How To"
+    weight = 37
+    url = "/howto"
+[[main]]
+    parent = "How To"
+    name = "Use Good Exterior Lighting"
+    weight = 38
+    url = "/howto/good-exterior-lighting"
+[[main]]
+    parent = "How To"
+    name = "Install Dark Sky Friendly Lighting"
+    weight = 39
+    url = "/howto/dark-sky-lighting"
+[[main]]
+    parent = "How To"
+    name = "Prevent Window and Bird Collisions"
+    weight = 40
+    url = "/howto/prevent-window-bird"
+[[main]]
+    parent = "How To"
+    name = "Adopt a Lighting Ordinance"
+    weight = 41
+    url = "/howto/lighting-ordinance"
+[[main]]
+    parent = "How To"
+    name = "Generate Public Awareness"
+    url = "/howto/public-awareness"
+    weight = 42
+[[main]]
+    name = "Education"
+    weight = 44
+[[main]]
+    parent = "Education"
+    name = "Environmental"
+    weight = 45
+    url = "/environment"
+[[main]]
+    parent = "Environmental"
+    name = "Human Health"
+    weight = 46
+    url = "/environment/human-health"
+[[main]]
+    parent = "Environmental"
+    name = "Sea Turtles"
+    weight = 47
+    url = "/environment/sea-turtles"
+[[main]]
+    parent = "Environmental"
+    name = "Migratory Birds"
+    weight = 48
+    url = "/environment/birds"
+[[main]]
+    parent = "Environmental"
+    name = "Fireflies"
+    weight = 49
+    url = "/environment/fireflies"
+[[main]]
+    parent = "Education"
+    name = "Social"
+    weight = 50
+[[main]]
+    parent = "Social"
+    name = "Aesthetics"
+    weight = 51
+[[main]]
+    parent = "Social"
+    name = "Crime & Safety"
+    weight = 52
+[[main]]
+    parent = "Social"
+    name = "Economic Cost"
+    weight = 53
+[[main]]
+    name = "Follow Us"
+    weight = 54
+[[main]]
+    parent = "Follow Us"
+    name = "Newsletter"
+    weight = 55
+[[main]]
+    parent = "Follow Us"
+    name = "Blogs"
+    weight = 56
+[[main]]
+    parent = "Follow Us"
+    name = "Astrophotography"
+    weight = 57
+[[main]]
+    parent = "Follow Us"
+    name = "Twitter"
+    weight = 58
+    url = "https://twitter.com/starryskysouth"
+[[main]]
+    parent = "Follow Us"
+    name = "Facebook"
+    weight = 59
+    url = "https://www.facebook.com/groups/1012753086040435"

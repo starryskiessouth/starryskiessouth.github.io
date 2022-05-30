@@ -1,0 +1,12 @@
+<section>
+    {{ with .Parent.Title }}
+        <h2>{{- . -}}</h2>
+    {{ end }}
+    {{ with site.GetPage (printf "/%s" .Section) }}
+        <ul class="links">
+            {{ range .Pages }}
+                <li>{{ .Render "hyperlink" }}</li>
+            {{ end }}
+        </ul>
+    {{end}}
+</section>

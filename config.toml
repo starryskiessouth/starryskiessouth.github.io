@@ -1,0 +1,4 @@
+baseURL = 'https://www.starryskiessouth.org/'
+languageCode = 'en-us'
+title = 'Starry Skies South'
+theme = "hugo-arcana"

@@ -1,0 +1,14 @@
+<section>
+    <h3>About Us</h3>
+    <ul class="links">
+        {{ range (where .Site.Pages "Section" "about") }}
+            {{ if (ne .File.LogicalName "_index.md") }}
+                {{ if (eq $.Title .Title) }}
+                    <li><b>{{ .Render "hyperlink" }}</b></li>
+                {{ else }}
+                    <li>{{ .Render "hyperlink" }}</li>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </ul>
+</section>
