@@ -5,7 +5,7 @@
     {{ with site.GetPage (printf "/%s" .Section) }}
         <ul class="links">
             {{ range .Pages }}
-                <li>{{ .Render "hyperlink" }}</li>
+                <li class="{{- cond (eq .Title $.Title) "active" "" -}}">{{ .Render "hyperlink" }}</li>
             {{ end }}
         </ul>
     {{end}}
