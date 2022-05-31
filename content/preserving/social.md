@@ -1,10 +1,13 @@
 ---
-title: The First Thing
+title: Social Benefits
 image: images/pic01.jpg
-date: "2020-01-01T00:00:00"
-tags:
-  - example
-  - lorem ipsum
+date: "2022-05-30T00:00:00"
+sidebar_right: about
+weight: 30
+menu:
+    main:
+        parent: Preserve Starry Skies
+        weight: 53
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
 mattis, sed a rutrum accumsan sed. Suspendisse eu.

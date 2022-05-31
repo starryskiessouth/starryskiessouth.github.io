@@ -1,6 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&display=swap');
+
+/* Override nav colors */
 /*
-@import url('https://fonts.googleapis.com/css2?family=Charmonman&display=swap');
+#nav {
+    &:after {
+        background-color: #e0e0e0;
+    }
+    > ul {
+        > li {
+            &.current {
+                &:before {
+                    background-color: #e0e0e0;
+                }
+            }
+        }
+    }
+}
 */
+
+    body, input, select, textarea {
+        font-family: 'Bellefair', serif;
+    }
+
 
     .active {
         font-weight: 600;

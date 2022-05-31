@@ -1,11 +1,13 @@
 ---
-title: Prevent Window and Bird Collisions
+title: Environmental Benefits
 image: images/pic01.jpg
 date: "2022-05-30T00:00:00"
+sidebar_right: about
+weight: 20
 menu:
     main:
-        parent: How To
-        weight: 43
+        parent: Preserve Starry Skies
+        weight: 52
 ---
 Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
 mattis, sed a rutrum accumsan sed. Suspendisse eu.
