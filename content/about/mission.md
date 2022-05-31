@@ -9,7 +9,5 @@ menu:
         parent: About Us
         weight: 21
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+### Mission
+Our mission is to promote appreciation and conservation of the starry sky.
