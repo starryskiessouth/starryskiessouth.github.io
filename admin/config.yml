@@ -51,4 +51,6 @@ collections:
                 widget: "number"
                 value_type: "int"
                 default: 28
-
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
