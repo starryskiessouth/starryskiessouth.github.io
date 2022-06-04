@@ -13,6 +13,78 @@ slug:
   clean_accents: true
 
 collections:
+  - name: homepage
+    label: "Homepage"
+    file: data/homepage.yml
+    fields:
+      - label: "Banner"
+        widget: "object"
+        name: "banner"
+        fields:
+          - label: "Enable"
+            name: "enable"
+            widget: "boolean"
+            default: "true"
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            allow_multiple: false
+            required: false
+          - label: "Subtext"
+            name: "contents"
+            widget: "markdown"
+          - label: "Button"
+            name: "button"
+            widget: "object"
+            fields:
+              - label: "Text"
+                name: "contents"
+                widget: "string"
+                default: "Learn More"
+              - label: "URL"
+                name: "url"
+                widget: "string"
+                default: "/about/mission"
+      - label: "Icon Cards"
+        name: "items"
+        widget: "list"
+        fields:
+          - label: "Type"
+            name: "type"
+            widget: "string"
+            default: "highlights"
+          - label: "Items Per Row"
+            name: "items_per_row"
+            widget: "number"
+            value_type: "int"
+            default: 3
+          - label: "Cards"
+            name: "items"
+            widget: "list"
+            summary: '{{fields.title}}'
+            allow_add: true
+            collapsed: true
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+                default: "ITEM TITLE"
+              - label: "Icon (fontawesome)"
+                name: "icon"
+                widget: "string"
+                default: "fa-lightbulb"
+              - label: "Content"
+                name: "content"
+                widget: "text"
+                default: "Some cool explanation"
+  - name: title
+    file: data/globalheader.yml
+    label: "Main Page Title"
+    fields:
+      - label: "Title"
+      - name: "title"
+      - widget: "markdown"
+      - default: "Starry Skies South"
   - name: root
     folder: content/
     create: true
@@ -78,11 +150,14 @@ collections:
         default: 260
       - label: "Left Sidebar"
         name: "sidebar_left"
-        widget: "string"
+        widget: "select"
+        options: ["", "list"]
+        default: ""
       - label: "Right Sidebar"
         name: "sidebar_right"
-        widget: "string"
-        default: "about"
+        widget: "select"
+        options: ["", "list"]
+        default: "list"
       - label: "Main Menu Parent"
         name: "menu"
         widget: "object"
@@ -127,11 +202,14 @@ collections:
         default: 450
       - label: "Left Sidebar"
         name: "sidebar_left"
-        widget: "string"
+        widget: "select"
+        options: ["", "list"]
+        default: ""
       - label: "Right Sidebar"
         name: "sidebar_right"
-        widget: "string"
-        default: "about"
+        widget: "select"
+        options: ["", "list"]
+        default: "list"
       - label: "Main Menu Parent"
         name: "menu"
         widget: "object"
