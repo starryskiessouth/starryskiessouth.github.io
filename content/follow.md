@@ -1,10 +1,8 @@
 ---
 title: "Follow Us"
 description: "Stay up-to-date with Starry Skies South events"
-menu:
-    main:
-        weight: 60
-weight: 60
+menu: main
+weight: 600
 ---
 ### Social Media
 

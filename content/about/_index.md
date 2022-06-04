@@ -2,7 +2,6 @@
 title: About Us
 menu:
     main:
-        name: About Us
-        weight: 20
+weight: 200
 ---
 

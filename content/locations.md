@@ -1,10 +1,8 @@
 ---
 title: "Find Starry Skies"
 description: "Where to find great starry skies in the south."
-menu:
-    main:
-        weight: 30
-weight: 36
+menu: main
+weight: 300
 image: images/banner.jpg
 image_alt: "Hello!"
 ---

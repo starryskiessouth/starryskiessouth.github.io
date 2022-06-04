@@ -2,5 +2,5 @@
 title: Preserve Starry Skies
 menu:
     main:
-        weight: 50
+weight: 400
 ---
