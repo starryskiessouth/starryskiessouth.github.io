@@ -13,6 +13,41 @@ slug:
   clean_accents: true
 
 collections:
+  - name: root
+    folder: content/
+    create: true
+    label: "Root Pages"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        name: "description"
+        widget: "string"
+      - label: "Menu"
+        name: "menu"
+        widget: "string"
+        default: "main"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+      - label: "Image Alt Text"
+        name: "image_alt"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Weight (for sorting, lower values come first)"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        default: 500
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: about
     folder: content/about
     create: true
@@ -21,21 +56,34 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
+      - label: "Subtitle"
+        name: "description"
+        widget: "string"
       - label: "Image"
         name: "image"
         widget: "image"
         allow_multiple: false
         required: false
+      - label: "Image Alt Text"
+        name: "image_alt"
+        widget: "string"
       - label: "Date"
         name: "date"
         widget: "date"
         format: "YYYY-MM-DD"
-      - label: "Weight (for sorting 'about' in sidebar)"
+      - label: "Weight (for sorting, lower values come first)"
         name: "weight"
         widget: "number"
         value_type: "int"
-        default: 50
-      - label: "Main Menu Sorting Weight"
+        default: 260
+      - label: "Left Sidebar"
+        name: "sidebar_left"
+        widget: "string"
+      - label: "Right Sidebar"
+        name: "sidebar_right"
+        widget: "string"
+        default: "about"
+      - label: "Main Menu Parent"
         name: "menu"
         widget: "object"
         fields:
@@ -46,11 +94,55 @@ collections:
               - label: "Parent Menu"
                 name: "parent"
                 default: "About Us"
-              - label: "Weight"
-                name: "weight"
-                widget: "number"
-                value_type: "int"
-                default: 28
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: preserving
+    folder: content/preserving
+    create: true
+    label: "Preserving Starry Skies"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        name: "description"
+        widget: "string"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+      - label: "Image Alt Text"
+        name: "image_alt"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Weight (for sorting, lower values come first)"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        default: 450
+      - label: "Left Sidebar"
+        name: "sidebar_left"
+        widget: "string"
+      - label: "Right Sidebar"
+        name: "sidebar_right"
+        widget: "string"
+        default: "about"
+      - label: "Main Menu Parent"
+        name: "menu"
+        widget: "object"
+        fields:
+          - label: "Main Menu"
+            name: "main"
+            widget: "object"
+            fields:
+              - label: "Parent Menu"
+                name: "parent"
+                default: "Preserve Starry Skies"
       - label: "Body"
         name: "body"
         widget: "markdown"
