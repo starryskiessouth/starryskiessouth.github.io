@@ -1,0 +1,54 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images/uploads"
+
+public_folder: "/images/uploads"
+
+site_url: https://starryskiessouth.github.io
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: about
+    folder: content/about
+    create: true
+    label: "About Us"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Weight (for sorting 'about' in sidebar)"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        default: 50
+      - label: "Main Menu Sorting Weight"
+        name: "menu"
+        widget: "object"
+        fields:
+          - label: "Main Menu"
+            name: "main"
+            widget: "object"
+            fields:
+              - label: "Parent Menu"
+                name: "parent"
+                default: "About Us"
+              - label: "Weight"
+                name: "weight"
+                widget: "number"
+                value_type: "int"
+                default: 28
+
