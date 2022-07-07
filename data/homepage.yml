@@ -1,25 +1,26 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
-  contents: "**Starry Skies South:** _A member organization of the [International Dark Skies Association](https://www.darksky.org/)_"
+  image: images/banner.jpg
+  contents: "**Starry Skies South:** *A proposed member organization of the
+    [International Dark Skies Association](https://www.darksky.org/)*"
   button:
-    contents: "Learn More"
-    url: "/about/mission"
+    contents: Learn More
+    url: /about/mission
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: Great Locations for Starry Skies
-      icon: fa-location-arrow
-      content: >
-        Learn about places close to you that are great for
-        viewing starry skies.
-    - title: Light Pollution
-      icon: fa-lightbulb
-      content: >
-        Learn how to reduce light pollution in your home and community.
-    - title: Probably Important
-      icon: fa-city
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      - title: Great Locations for Starry Skies
+        icon: fa-location-arrow
+        content: >
+          Learn about places close to you that are great for viewing starry
+          skies.
+      - title: Light Pollution
+        icon: fa-lightbulb
+        content: |
+          Learn how to reduce light pollution in your home and community.
+      - title: Probably Important
+        icon: fa-city
+        content: >
+          Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+          amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
