@@ -2,7 +2,7 @@ banner:
   enable: true
   image: images/banner.jpg
   contents: "**Starry Skies South:** *A proposed member organization of the
-    [International Dark Skies Association](https://www.darksky.org/)*"
+    [International Dark-Sky Association](https://www.darksky.org/)*"
   button:
     contents: Learn More
     url: /about/mission
