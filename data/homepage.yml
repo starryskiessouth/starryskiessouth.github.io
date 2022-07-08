@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: images/banner.jpg
+  image: /images/uploads/brasstownbaldmilkywayjonahsnead.jpg
   contents: "**Starry Skies South:** *A proposed member organization of the
     [International Dark-Sky Association](https://www.darksky.org/)*"
   button:
