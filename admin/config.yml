@@ -99,6 +99,7 @@ collections:
       - label: "Subtitle"
         name: "description"
         widget: "string"
+        required: false
       - label: "Menu"
         name: "menu"
         widget: "string"
@@ -111,6 +112,7 @@ collections:
       - label: "Image Alt Text"
         name: "image_alt"
         widget: "string"
+        required: false
       - label: "Date"
         name: "date"
         widget: "date"
@@ -134,6 +136,7 @@ collections:
       - label: "Subtitle"
         name: "description"
         widget: "string"
+        required: false
       - label: "Image"
         name: "image"
         widget: "image"
@@ -142,6 +145,7 @@ collections:
       - label: "Image Alt Text"
         name: "image_alt"
         widget: "string"
+        required: false
       - label: "Date"
         name: "date"
         widget: "date"
@@ -156,11 +160,13 @@ collections:
         widget: "select"
         options: ["", "list"]
         default: ""
+        required: false
       - label: "Right Sidebar"
         name: "sidebar_right"
         widget: "select"
         options: ["", "list"]
         default: "list"
+        required: false
       - label: "Main Menu Parent"
         name: "menu"
         widget: "object"
@@ -186,6 +192,7 @@ collections:
       - label: "Subtitle"
         name: "description"
         widget: "string"
+        required: false
       - label: "Image"
         name: "image"
         widget: "image"
@@ -194,6 +201,7 @@ collections:
       - label: "Image Alt Text"
         name: "image_alt"
         widget: "string"
+        required: false
       - label: "Date"
         name: "date"
         widget: "date"
@@ -208,11 +216,13 @@ collections:
         widget: "select"
         options: ["", "list"]
         default: ""
+        required: false
       - label: "Right Sidebar"
         name: "sidebar_right"
         widget: "select"
         options: ["", "list"]
         default: "list"
+        required: false
       - label: "Main Menu Parent"
         name: "menu"
         widget: "object"
