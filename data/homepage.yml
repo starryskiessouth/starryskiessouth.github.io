@@ -11,10 +11,10 @@ items:
     items_per_row: 3
     items:
       - title: Health
-        icon: fa fa-pagelines
+        icon: fa-hand-holding-seedling
         content: Starry skies are important for human, nonhuman animal, and plant health
       - title: Stars
-        icon: fa fa-star-half-o
+        icon: fa-star-half-o
         content: >
           80% of people living in the United States today have never seen the
           Milky Way
