@@ -1,12 +1,12 @@
 ---
 title: Acknowledgements
-image: images/pic01.jpg
+image: /images/uploads/cheaha.jpg
 date: 2022-05-30T00:00:00
-sidebar_right: list
 weight: 250
+sidebar_right: list
 menu:
-    main:
-        parent: About Us
+  main:
+    parent: About Us
 ---
 Here are some of the people and organizations that have supported us.
 
