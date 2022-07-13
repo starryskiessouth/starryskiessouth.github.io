@@ -9,4 +9,5 @@ menu:
     parent: About Us
 ---
 ### Mission
-Our mission is to promote appreciation and conservation of the starry sky.
+
+Our mission is to promote appreciation and conservation of starry skies across the southeastern United States.
