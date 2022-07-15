@@ -10,8 +10,6 @@ menu:
 ---
 Learn about the people and organizations that have supported us.
 
-<!-- more -->
-
 Many thanks to...
 
 * **Ellen Grady** (University of Alabama at Birmingham) for providing tips and resources for getting our non-profit paperwork started
