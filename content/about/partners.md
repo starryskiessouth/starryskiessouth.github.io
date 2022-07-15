@@ -11,3 +11,7 @@ menu:
 Learn about the groups with whom we are partnered.
 
 <!-- more -->
+
+![](/images/uploads/vbas.png "Von Braun Astronomical Society")
+
+![](/images/uploads/bas.jpg "Birmingham Astronomical Society")
