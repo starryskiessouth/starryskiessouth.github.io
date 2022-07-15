@@ -19,3 +19,4 @@ Many thanks to...
 * the leaders of **Starry Skies North** for providing suggestions on our group's regional purview and name.
 * **Bruce McMath**, of Arkansas Natural Sky Association, for supporting information on developing our group into a nonprofit.
 * **Diane Turnshek**, of IDA Pittsburgh, for supporting information on developing initial group goals and future possibilities
+* IDA staff member **Bettymaya Foot** for supporting and overseeing our group's regional development
