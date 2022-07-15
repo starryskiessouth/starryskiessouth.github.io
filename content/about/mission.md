@@ -11,3 +11,9 @@ menu:
 ### Mission
 
 Our mission is to promote appreciation and conservation of starry skies across the southeastern United States.
+
+In April 2022, Dr. Michelle Wooten, an International Dark-Sky Association Delegate in Alabama, invited the [astronomy clubs of Alabama](https://www.go-astronomy.com/astro-clubs-state.php?State=AL) to meet together to form a dark-sky advocacy collective.  Over the next few months we (i) applied to become an International Dark-Sky Association chapter, (ii) voted to change our state-based focused to a regional focus spanning the southeastern United States without an IDA chapter, and (iii) voted on our collective's name, *Starry Skies South.*
+
+We are currently in the process of increasing our membership from interested partner organizations across the southeast, preparing our nonprofit application paperwork, and developing our city- and state-based initiatives.  These initiatives include public education about the importance of preserving starry skies, creation of dark sky places, and lobbying.
+
+Our meetings take place virtually on the first Thursdays of every month at 7 p.m. Central (8 p.m.  Eastern).  If you would like to join us, please contact us at TBD.
