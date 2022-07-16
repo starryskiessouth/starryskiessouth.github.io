@@ -3,7 +3,7 @@ title: Marlena Wald
 description: Georgia Member
 image: /images/uploads/wald.jpg
 date: 2022-07-16
-weight: 450
+weight: 8
 sidebar_left: ""
 sidebar_right: list
 ---
