@@ -1,5 +1,7 @@
 ---
 title: Social Benefits
+description: Preserving starry skies supports our heritage, cost of energy
+  consumption, and safety.
 image: /images/uploads/m42.jpg
 date: 2022-05-30T00:00:00
 weight: 430
