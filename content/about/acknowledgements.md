@@ -9,6 +9,8 @@ menu:
   main:
     parent: About Us
 ---
+*The above photo was taken at* Cheaha State Park during the event *[Discovering Dazzling New Depths of Dark Skies](https://www.alapark.com/events/cheaha-state-park/discovering-dazzling-new-depths-dark-skies)* in April 2022.
+
 Many thanks to...
 
 * **Ellyn Grady** (University of Alabama at Birmingham) for providing tips and resources for getting our non-profit paperwork started
