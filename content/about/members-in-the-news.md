@@ -1,5 +1,7 @@
 ---
 title: Members in the News
+description: Our members' starry skies advocacy efforts are being featured in
+  the news!  Read more here.
 image: /images/uploads/milky-way-over-north-beach-of-tybee-island-georgia.-meaghan-gerard.-08.12.21.jpg
 date: 2022-07-16
 weight: 250
