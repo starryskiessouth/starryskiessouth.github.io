@@ -237,3 +237,48 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+  - name: members
+    folder: content/about/members
+    create: true
+    label: "Member Profiles"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        name: "description"
+        widget: "string"
+        required: false
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+      - label: "Image Alt Text"
+        name: "image_alt"
+        widget: "string"
+        required: false
+      - label: "Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Weight (for sorting, lower values come first)"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        default: 450
+      - label: "Left Sidebar"
+        name: "sidebar_left"
+        widget: "select"
+        options: ["", "list"]
+        default: ""
+        required: false
+      - label: "Right Sidebar"
+        name: "sidebar_right"
+        widget: "select"
+        options: ["", "list"]
+        default: "list"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
