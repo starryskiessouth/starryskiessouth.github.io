@@ -2,7 +2,7 @@
 title: Members in the News
 image: /images/uploads/milky-way-over-north-beach-of-tybee-island-georgia.-meaghan-gerard.-08.12.21.jpg
 date: 2022-07-16
-weight: 260
+weight: 250
 sidebar_left: ""
 sidebar_right: list
 menu:
