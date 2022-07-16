@@ -10,6 +10,8 @@ menu:
   main:
     parent: About Us
 ---
+The above photo was taken by Georgia member, Meaghan Gerard Walsh.
+
 ### Mission
 
 Our mission is to promote appreciation and conservation of starry skies across the southeastern United States.
