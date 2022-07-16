@@ -1,5 +1,6 @@
 ---
 title: Dr. William Baker
+description: Alabama Member
 image: /images/uploads/baker.jpg
 date: 2022-07-16
 weight: 2
