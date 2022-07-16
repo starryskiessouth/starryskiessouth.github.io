@@ -11,6 +11,8 @@ menu:
   main:
     parent: About Us
 ---
+*The above image was taken by Georgia member, Meaghan Gerard Walsh.*
+
 ###### June 2022
 
 Our South Carolina coordinator, Tom Berta, is interviewed about light pollution in WCBD News 2 Charleston.  Watch the video [here](https://www.youtube.com/watch?v=0GCn5D_Hvpo). 
