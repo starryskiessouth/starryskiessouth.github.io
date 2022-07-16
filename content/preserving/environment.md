@@ -1,7 +1,7 @@
 ---
 title: Environmental Benefits
 description: Why do humans, plants, and nonhuman animals need starry skies?
-image: ""
+image: /images/uploads/dusk-over-south-end-of-tybee-island-georgia.-meaghan-gerard.-04.15.22.jpg
 date: 2022-05-30T00:00:00
 weight: 420
 sidebar_right: list
