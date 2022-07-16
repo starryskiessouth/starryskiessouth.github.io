@@ -9,6 +9,8 @@ menu:
   main:
     parent: Preserve Starry Skies
 ---
+*The above image, titled "Dusk over south end of Tybee Island, Georgia," was photographed by Starry Skies South member Meaghan Walsh Gerard* (Georgia)*.*
+
 Find out why humans, plants, and nonhuman animals need starry skies by watching the below videos and reading the provided resources.
 
 ## Humans
