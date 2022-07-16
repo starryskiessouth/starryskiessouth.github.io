@@ -10,7 +10,7 @@ menu:
   main:
     parent: About Us
 ---
-The above photo was taken by Georgia member, Meaghan Gerard Walsh.
+*The above photo was taken by Georgia member, Meaghan Gerard Walsh.*
 
 ### Mission
 
