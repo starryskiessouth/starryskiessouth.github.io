@@ -28,7 +28,7 @@ Humans spend several billions of dollars annually on misdirected artificial ligh
 
 ### Safety
 
-Misdirected light at night, *glare* from unshielded lights*,* makes it harder to see at night.  By choosing fully-shielded, targeted lighting, it is easier to see your surroundings.  
+Misdirected light at night, *glare* from unshielded lights, makes it harder to see at night.  By choosing fully-shielded, targeted lighting, it is easier to see your surroundings.  
 
 Consider how much easier it is to see someone - a potential intruder - when a glaring light is shielded by your hand.
 
