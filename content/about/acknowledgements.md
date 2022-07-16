@@ -1,5 +1,6 @@
 ---
 title: Acknowledgements
+description: Learn about the people and organizations that have supported us.
 image: /images/uploads/cheaha.jpg
 date: 2022-05-30T00:00:00
 weight: 350
@@ -8,8 +9,6 @@ menu:
   main:
     parent: About Us
 ---
-Learn about the people and organizations that have supported us.
-
 Many thanks to...
 
 * **Ellyn Grady** (University of Alabama at Birmingham) for providing tips and resources for getting our non-profit paperwork started
