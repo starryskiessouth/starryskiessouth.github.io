@@ -1,7 +1,11 @@
 ---
 title: Outreach & Events
 menu: main
+date: 2022-07-16
 weight: 500
 ---
+Our monthly meetings take place virtually on the first Thursday of every month at 7 p.m. Central Time (8 p.m. Eastern).
 
-<iframe title="These are some great events" src="https://calendar.google.com/calendar/b/2/embed?height=900&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;src=dm9uYnJhdW5hc3Ryb25vbXlAZ21haWwuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233366CC&amp;color=%231F753C" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+Find us at the [Alabama Audubon's Black Belt Birding Festival](https://alaudubon.org/event/2022-07-30/) on Friday, July 29.
+
+![](/images/uploads/2022-tractor-design_igram-768x768.png)
