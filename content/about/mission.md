@@ -1,5 +1,7 @@
 ---
 title: Mission & Scope
+description: Our mission is to promote appreciation and conservation of starry
+  skies across the southeastern United States.
 image: /images/uploads/amateur-astronomers-gather-near-ft-pulaski-georgia-to-view-comet-neowise.-07.18.20.jpg
 date: 2022-05-30T00:00:00
 weight: 210
