@@ -1,7 +1,8 @@
 ---
-title: "Follow Us"
-description: "Stay up-to-date with Starry Skies South events"
+title: Follow Us
+description: Stay up-to-date with Starry Skies South news and events.
 menu: main
+date: 2022-07-16
 weight: 600
 ---
 ### Social Media
