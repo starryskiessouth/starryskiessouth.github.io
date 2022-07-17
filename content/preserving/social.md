@@ -32,8 +32,6 @@ Misdirected light at night, *glare* from unshielded lights, makes it harder to s
 
 Consider how much easier it is to see someone - a potential intruder - when a glaring light is shielded by your hand.
 
-![](/images/uploads/shielded.png)
-
 *The above photo series was captured by George Fleenor.*
 
 To support safety and the heritage of dark skies, choose fully-shielded fixtures for your home and community - *put a shield on it.*
