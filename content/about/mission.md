@@ -14,7 +14,7 @@ menu:
 
 ### Mission
 
-Our mission is to promote appreciation and conservation of starry skies across the southeastern United States.
+Our mission is to promote appreciation and preservation of starry skies across the southeastern United States.
 
 ### Background & Scope
 
