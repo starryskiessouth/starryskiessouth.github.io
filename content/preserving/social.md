@@ -36,6 +36,14 @@ Consider how much easier it is to see someone - a potential intruder - when a gl
 
 *The above photo series was captured by George Fleenor.*
 
-To support safety and the heritage of dark skies, choose fully-shielded fixtures for your home and community - *put a shield on it.*
+### Neighborly Lighting
+
+Are you troubled sleeping at night due to your neighbor's or city's light pouring through your window?  This light is negatively affecting your health and potentially others' too.  
+
+Many cities and counties have lighting ordinances in place requiring shielded light and/or lighting that does not trespass into homes.  However, many times, individuals are unaware of how their lighting is affecting others.  You can typically find your county's lighting ordinance via a web engine search that includes your county name, your state name, and the phrase "zoning regulation." Once you find your city and county's lighting ordinance, you can bring the light trespass you are experiencing to your local police or legislators and encourage new fixture implementation.  
+
+Meanwhile, consider how your own home lighting might be creating light trespass onto your neighbor's property.  Follow the guidelines [provided on this website](https://www.darksky.org/dark-sky-friendly-home-lighting-program/) to consider how you might change your lighting to eliminate light trespass. Once your lighting is improved, you can print out a *Dark Sky Friendly Home* certificate.  
+
+To support safety, our heritage of starry skies, reduced energy waste, and neighborly lighting, choose fully-shielded fixtures for your home and community - *put a shield on it.*
 
 ![](/images/uploads/glare.jpg)
