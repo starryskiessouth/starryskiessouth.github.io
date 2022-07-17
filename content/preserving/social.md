@@ -22,7 +22,7 @@ Starry skies have benefitted Earthen creatures - both health-wise and aesthetica
 
 ### Energy Waste
 
-Humans spend several billions of dollars annually on misdirected artificial light at night.  This amounts to over 20 millions of tons of wasted carbon dioxide.  The below infographic details this production.  Learn more [here](https://www.darksky.org/light-pollution/energy-waste/). 
+Humans spend several billions of dollars annually on misdirected artificial light at night.  This amounts to over 20 millions of tons of wasted carbon dioxide.  By using lighting that promotes starry skies (also called dark-sky friendly lighting), we can save ourselves and our community's money. The below infographic details how lighting contributes to energy waste. Learn more [here](https://www.darksky.org/light-pollution/energy-waste/). 
 
 ![](/images/uploads/energy-waste-web-1-647x500.jpg)
 
