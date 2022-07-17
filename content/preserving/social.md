@@ -37,3 +37,5 @@ Consider how much easier it is to see someone - a potential intruder - when a gl
 *The above photo series was captured by George Fleenor.*
 
 To support safety and the heritage of dark skies, choose fully-shielded fixtures for your home and community - *put a shield on it.*
+
+![](/images/uploads/glare.jpg)
