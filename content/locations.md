@@ -41,12 +41,6 @@ Our members' favorite places to observe starry skies are...
 
 ### Tennessee
 
-* Fall Creek Falls State Park
-* Rock Island State Park
-* Cumberland Mountain State Parks
-* Piney Campground at Land Between the Lakes National Recreation Area
-* "Pin Oak RV" loop at Natchez Trace State Park
-* Big Hill Pond State Park
-* Chickasaw State Park
+* South Cumberland State Park
 
 The above image is World Atlas 2015 overlay data sourced from Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. V. 1.1. GFZ Data Services. https://doi.org/10.5880/GFZ.1.4.2016.001
