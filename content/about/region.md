@@ -8,6 +8,6 @@ menu:
   main:
     parent: About Us
 ---
-Our proposed region includes Louisiana, Mississippi, Alabama, Georgia, Tennessee, and South Carolina.
+Our proposed region includes Mississippi, Alabama, Georgia, and South Carolina.  We welcome participation from persons from other places across the southeastern United States, per their interest.
 
 <!-- more -->
