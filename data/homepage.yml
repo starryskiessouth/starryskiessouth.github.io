@@ -1,8 +1,8 @@
 banner:
   enable: true
   image: /images/uploads/brasstownbaldmilkywayjonahsnead.jpg
-  contents: "**Starry Skies South:** *A proposed chapter of the [International
-    Dark-Sky Association](https://www.darksky.org/)*"
+  contents: "**Starry Skies South:** *A Chapter of the [International Dark-Sky
+    Association](https://www.darksky.org/)*"
   button:
     contents: Learn More
     url: /about/mission
