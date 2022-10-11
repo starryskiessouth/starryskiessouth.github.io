@@ -59,11 +59,19 @@ W﻿ritten by *Starry Skies South* member Dr. William Baker
 
    This fixture is mounted above a door used by our kids to enter the house when coming home late. With no “house” structure above it, any non shielded light would cause a lot of LP. I installed this fixture decades ago to replace an old box type lamp. As you can see, it has great light coverage of the entrance, with no up light or light trespass. Its sleek profile and color blends in great with the wall. Even better, it has a glass cover to prevent the bugs from entering the fixture. As you can tell I am really proud of this one and it has held up great. (A tip on bulbs for enclosed fixtures like this one, make sure you purchase a bulb that is rated to be used in an enclosed fixture. These are not hard to find on the shelves locally. The fixture rating is usually written either on the packaging or the bulb itself. Using a non-enclosed fixture rated bulb will shorten the LEDs life span due to heat build up. But, a bulb rated for an enclosed fixture is built to take the heat. The current bulb in my fixture has lasted for 20+ years.)
 
+   ![](/images/uploads/img_0595_updated.jpg)
+
+   ![](/images/uploads/img_0524_updated.jpg)
+
    Here is my newest addition. We have been in this house for 33 years. Being frugal, we did not want to change fixtures that weren’t the worst LP offenders. The old light fixtures did produce a lot of up light, but this was blocked by a deck above the front door. Since we only turned on the lights when needed, and used only the lowest amount of lumens, these fixtures were allowed to “stay”. But, one fixture finally developed a short and would no longer turn on. So the time came for replacement. Hurray! We chose full cutoff fixtures that use a standard LED bulb. You can get these with a built-in light source, but if the light source goes out you have to replace the entire fixture. Having a fixture with replaceable bulbs also provides more control over the lumens and Kelvin range. We chose to install our new fixtures with 2700 K bulbs. These fixtures were $69 each. There were cheaper options available, but they did not fit the Boss’s taste (aka: my wife).
    Life is a compromise: since I was getting a great non light pollution fixture, she got to choose the color and style. As you can see from the pictures, these new fixtures do not produce any up light. They actually provide better illumination of the porch and steps, with less energy usage than the old fixtures. A win-win for our house.
 
-   To sum it up, controlling light pollution is basically a “no brainer”, a win-win all away around. You save money, improve your health and that of others, help the environment, and as a bonus, you get a beautiful night sky to enjoy.
 
-   Thanks for taking the time to read all this. Don’t forget to pass the word about light pollution to your family and neighbors, as well as your elected and appointed officials.
 
-   Starry skies, William Baker, M.D.
+
+
+To sum it up, controlling light pollution is basically a “no brainer”, a win-win all away around. You save money, improve your health and that of others, help the environment, and as a bonus, you get a beautiful night sky to enjoy.
+
+Thanks for taking the time to read all this. Don’t forget to pass the word about light pollution to your family and neighbors, as well as your elected and appointed officials.
+
+Starry skies, William Baker, M.D.
