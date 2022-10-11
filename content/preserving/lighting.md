@@ -66,10 +66,6 @@ W﻿ritten by *Starry Skies South* member Dr. William Baker
    Here is my newest addition. We have been in this house for 33 years. Being frugal, we did not want to change fixtures that weren’t the worst LP offenders. The old light fixtures did produce a lot of up light, but this was blocked by a deck above the front door. Since we only turned on the lights when needed, and used only the lowest amount of lumens, these fixtures were allowed to “stay”. But, one fixture finally developed a short and would no longer turn on. So the time came for replacement. Hurray! We chose full cutoff fixtures that use a standard LED bulb. You can get these with a built-in light source, but if the light source goes out you have to replace the entire fixture. Having a fixture with replaceable bulbs also provides more control over the lumens and Kelvin range. We chose to install our new fixtures with 2700 K bulbs. These fixtures were $69 each. There were cheaper options available, but they did not fit the Boss’s taste (aka: my wife).
    Life is a compromise: since I was getting a great non light pollution fixture, she got to choose the color and style. As you can see from the pictures, these new fixtures do not produce any up light. They actually provide better illumination of the porch and steps, with less energy usage than the old fixtures. A win-win for our house.
 
-
-
-
-
 To sum it up, controlling light pollution is basically a “no brainer”, a win-win all away around. You save money, improve your health and that of others, help the environment, and as a bonus, you get a beautiful night sky to enjoy.
 
 Thanks for taking the time to read all this. Don’t forget to pass the word about light pollution to your family and neighbors, as well as your elected and appointed officials.
