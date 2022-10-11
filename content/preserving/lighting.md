@@ -35,17 +35,13 @@ Use controls such as timers or motion detectors to ensure that light is availabl
 
 Limit the amount of shorter wavelength (blue-violet) light to the least amount needed. Light where you need it, when you need it, in the amount needed, and no more.
 
-
-
 ## **Find Lighting for Starry Skies**
 
 The International Dark Sky Association has a *Fixture Seal of Approval* program for residential and community lighting.  Find your starry-sky friendly lighting today:
 
 **[Find Lighting for Starry Skies](https://www.darksky.org/our-work/lighting/lighting-for-industry/fsa/fsa-products/)**
 
-
-
-## *How can I implement this lighting at home?*
+## *How can I implement lighting for starry skies at home?*
 
 W﻿ritten by *Starry Skies South* member Dr. William Baker
 
