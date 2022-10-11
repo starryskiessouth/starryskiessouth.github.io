@@ -46,7 +46,7 @@ The research on LP and risks to your health is ongoing and available online to s
 
 Another issue is called **light trespass**. Even if you have your outdoor lights off, you can still get light pollution from street lights or your neighbor. You wouldn’t tolerate someone blasting music all night long, nor should you have to put up with a light “blasting” into your windows and disrupting your sleep. Notice a sure sign of light trespass in this photo, below:  
 
-
+![](/images/uploads/img_0534_updated_2.jpg "Painted light fixture creating light trespass")
 
 This street light has been painted on one side, which is the side facing the nearby house. A well designed fixture would not do this. What about the moon you say, doesn’t that affect sleep? Yes it does, as studies have shown, however, short of closing our blinds, we haven’t yet found a way to “turn it off”. But, we can, and we should, control the amount of LP caused by bad outdoor lighting. Follow the guidelines [provided on this website](https://www.darksky.org/dark-sky-friendly-home-lighting-program/) to consider how you might change your lighting to eliminate light trespass. Once your lighting is improved, you can print out a *Dark Sky Friendly Home* certificate.  
 
