@@ -39,6 +39,11 @@ Our members' favorite places to observe starry skies are...
 * Blackwater State Forest
 * Lutz
 
+### South Carolina
+
+* John's Island County Park
+* Hamption Plantation State Historic Site
+
 ### Tennessee
 
 * South Cumberland State Park
