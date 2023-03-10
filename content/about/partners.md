@@ -8,7 +8,11 @@ menu:
   main:
     parent: About Us
 ---
+
+
 Learn about the groups with whom we are partnered.
+
+![IDA - North Carolina Chapter](/images/uploads/idanc.png)
 
 <!-- more -->
 
