@@ -10,6 +10,8 @@ menu:
 ---
 
 
+
+
 Learn about the groups with whom we are partnered.
 
 ![IDA - North Carolina Chapter](/images/uploads/idanc.png)
@@ -19,3 +21,5 @@ Learn about the groups with whom we are partnered.
 ![](/images/uploads/vbas.png "Von Braun Astronomical Society")
 
 ![](/images/uploads/bas.jpg "Birmingham Astronomical Society")
+
+![](/images/uploads/rma.jpg)
