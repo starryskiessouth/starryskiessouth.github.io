@@ -22,4 +22,4 @@ Learn about the groups with whom we are partnered.
 
 ![](/images/uploads/bas.jpg "Birmingham Astronomical Society")
 
-![](/images/uploads/rma.jpg)
+![](/images/uploads/rma2.jpg)
