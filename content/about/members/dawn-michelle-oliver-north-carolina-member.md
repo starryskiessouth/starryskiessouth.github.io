@@ -1,8 +1,9 @@
 ---
-title: Dawn-Michelle Oliver, North Carolina Member
+title: "Dawn-Michelle Oliver "
+description: North Carolina Member
 image: /images/uploads/dawn-michelle.png
 date: 2023-03-23
-weight: 450
+weight: 6
 sidebar_left: ""
 sidebar_right: list
 ---
