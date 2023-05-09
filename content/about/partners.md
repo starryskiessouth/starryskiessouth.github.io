@@ -8,18 +8,16 @@ menu:
   main:
     parent: About Us
 ---
-
-
-
-
 Learn about the groups with whom we are partnered.
 
-![IDA - North Carolina Chapter](/images/uploads/idanc.png)
+![Night Sky Coffee Roasters](/images/uploads/nsky_black_artboard-1large-002-.2.png "Night Sky Coffee Roasters")
+
+![IDA - North Carolina Chapter](/images/uploads/idanc.png "International Dark-Sky Association - North Carolina Chapter")
 
 <!-- more -->
 
-![](/images/uploads/vbas.png "Von Braun Astronomical Society")
+![Von Braun Astronomical Society](/images/uploads/vbas.png "Von Braun Astronomical Society")
 
-![](/images/uploads/bas.jpg "Birmingham Astronomical Society")
+![Birmingham Astronomical Society](/images/uploads/bas.jpg "Birmingham Astronomical Society")
 
-![](/images/uploads/rma2.jpg)
+![Roper Mountain Astronomers](/images/uploads/rma2.jpg "Roper Mountain Astronomers")
