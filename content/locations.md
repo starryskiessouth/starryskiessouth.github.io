@@ -17,6 +17,7 @@ Our members' favorite places to observe starry skies are...
 * Camp McDowell, Nauvoo 
 * Pine Apple  
 * Moundville Archaeological Park
+* P﻿erry Lakes Park
 
 ### Florida
 
