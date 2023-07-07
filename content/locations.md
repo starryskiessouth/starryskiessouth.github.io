@@ -2,7 +2,7 @@
 title: Find Starry Skies
 description: Where to find great starry skies in the south.
 menu: main
-image: /images/uploads/southeastregion.png
+image: /images/uploads/lightpollutionmapnc.png
 image_alt: Hello!
 date: 2022-07-13
 weight: 300
@@ -17,6 +17,11 @@ Our members' favorite places to observe starry skies are...
 * Camp McDowell, Nauvoo 
 * Pine Apple  
 * Moundville Archaeological Park
+
+### Florida
+
+* Blackwater State Forest
+* Lutz
 
 ### Georgia
 
@@ -34,15 +39,19 @@ Our members' favorite places to observe starry skies are...
 
 * French Camp (Mid-South Stargaze and Astronomy Conference - Rainwater Observatory)
 
-### Florida
+### N﻿orth Carolina
 
-* Blackwater State Forest
-* Lutz
+* B﻿rown Mountain Overlook
+* S﻿outh Mountain State Park
 
 ### South Carolina
 
 * John's Island County Park
-* Hamption Plantation State Historic Site
+* Hamption Plantation State Historic Site (applied for [IDSP ](https://www.darksky.org/our-work/conservation/idsp/)status)
+* T﻿able Rock State Park
+* D﻿evil Fork State Park
+* O﻿conee State Park
+* C﻿herry Hill National Forest Campground
 
 ### Tennessee
 
