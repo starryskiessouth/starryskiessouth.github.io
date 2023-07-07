@@ -1,6 +1,6 @@
 ---
 title: Our Region
-image: /images/uploads/southeastregion.png
+image: /images/uploads/lightpollutionmapnc.png
 date: 2022-05-30T00:00:00
 weight: 230
 sidebar_right: list
