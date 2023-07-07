@@ -2,7 +2,7 @@ baseURL = "https://www.starryskiessouth.org/"
 languageCode = "en-us"
 title = "Starry Skies South"
 theme = "hugo-arcana"
-copyright = "© Starry Skies South. All rights reserved"
+copyright = "Starry Skies South"
 
 [taxonomies]
     tag = "tags"
