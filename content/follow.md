@@ -12,7 +12,7 @@ weight: 600
 
 ### Social Media
 
-* Instagram: [@starryskiessouth](https://www.instagram.com/starryskiessouth/)[](https://twitter.com/starryskysouth)
+* Instagram: [@starryskiessouth](https://www.instagram.com/starryskiessouth/)
 * Facebook: [@starryskiessouth](https://www.facebook.com/groups/1012753086040435)
 
 ### Contact Info

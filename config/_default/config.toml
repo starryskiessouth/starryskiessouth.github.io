@@ -12,9 +12,9 @@ copyright = "© Starry Skies South. All rights reserved"
     show_post_dates = false
 
     [[params.social]]
-        title = "Twitter"
-        icon = "fa-twitter"
-        url = "https://www.twitter.com/starryskysouth"
+        title = "Instagram"
+        icon = "fa-instagram"
+        url = "https://www.instagram.com/starryskiessouth"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
