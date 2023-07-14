@@ -32,7 +32,7 @@ Our members' favorite places to observe starry skies are...
 * Hancock and Warren counties
 * Hard Labor Creek State Park
 * Deerlick Astronomy Village
-* Stephen C. Foster State Park - International Dark Sky Park Designation
+* Stephen C. Foster State Park (International Dark Sky Place)
 * Monticello
 * Blue Ridge
 
@@ -42,8 +42,27 @@ Our members' favorite places to observe starry skies are...
 
 ### N﻿orth Carolina
 
+N﻿orth Carolina members provided a lengthier document describing and linking to their favorite [dark sky viewing locations here](https://docs.google.com/document/d/1M-eM4DLpCcLDzfcOXNKjPpyR7FL36h3kon4jD7g30E4/edit?usp=sharing).
+
 * B﻿rown Mountain Overlook
 * S﻿outh Mountain State Park
+* C﻿line Observatory at Guilford Technical Community College
+* G﻿HRO Observatory
+* W﻿ildacres Retreat
+* P﻿isgah Astronomical Research Institute (International Dark Sky Place)
+* W﻿aterrock Knob
+* M﻿ountains
+
+  * Bare Dark Sky Observatory (International Dark Sky Place)
+* P﻿iedmont
+
+  * H﻿aw River State Park
+  * M﻿ayo River State Park
+  * S﻿tone Mountain State Park
+* C﻿oast
+
+  * C﻿ape Lookout National Seashore (International Dark Sky Place)
+  * B﻿laden Lakes State Forest near Elizabethtown
 
 ### South Carolina
 
