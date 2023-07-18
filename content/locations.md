@@ -44,21 +44,22 @@ Our members' favorite places to observe starry skies are...
 
 N﻿orth Carolina members provided a lengthier document describing and linking to their favorite [dark sky viewing locations here](https://docs.google.com/document/d/1M-eM4DLpCcLDzfcOXNKjPpyR7FL36h3kon4jD7g30E4/edit?usp=sharing).
 
-* B﻿rown Mountain Overlook
-* S﻿outh Mountain State Park
-* C﻿line Observatory at Guilford Technical Community College
-* G﻿HRO Observatory
-* W﻿ildacres Retreat
-* P﻿isgah Astronomical Research Institute (International Dark Sky Place)
-* W﻿aterrock Knob
 * M﻿ountains
 
+  * B﻿rown Mountain Overlook
+  * S﻿outh Mountain State Park
+  * W﻿aterrock Knob
   * Bare Dark Sky Observatory (International Dark Sky Place)
+  * P﻿isgah Astronomical Research Institute (International Dark Sky Place)
 * P﻿iedmont
 
-  * H﻿aw River State Park
   * M﻿ayo River State Park
   * S﻿tone Mountain State Park
+  * H﻿aw River State Park
+  * Three College Observatory
+  * G﻿HRO Observatory
+  * C﻿line Observatory at Guilford Technical Community College
+  * W﻿ildacres Retreat
 * C﻿oast
 
   * C﻿ape Lookout National Seashore (International Dark Sky Place)
