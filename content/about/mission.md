@@ -22,4 +22,4 @@ In April 2022, Dr. Michelle Wooten, an International Dark-Sky Association Delega
 
 We are currently in the process of increasing our membership from interested partner organizations across the southeast, preparing our nonprofit application paperwork, and developing our city- and state-based initiatives.  These initiatives include public education about the importance of preserving starry skies, creation of dark sky places, and lobbying.
 
-Our meetings take place virtually on the first Thursdays of every month at 7 p.m. Central (8 p.m.  Eastern).  If you would like to join us, please contact us at info@starryskiessouth.org.
+Our meetings take place virtually on the third Thursday of every month at 7 p.m. Central (8 p.m.  Eastern).  If you would like to join us, please contact us at info@starryskiessouth.org.
