@@ -51,6 +51,7 @@ N﻿orth Carolina members provided a lengthier document describing and linking t
   * W﻿aterrock Knob
   * Bare Dark Sky Observatory (International Dark Sky Place)
   * P﻿isgah Astronomical Research Institute (International Dark Sky Place)
+  * D﻿uPont State Recreational Forest Farm field
 * P﻿iedmont
 
   * M﻿ayo River State Park
