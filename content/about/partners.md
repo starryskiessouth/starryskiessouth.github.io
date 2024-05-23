@@ -21,3 +21,5 @@ Learn about the groups with whom we are partnered.
 ![Birmingham Astronomical Society](/images/uploads/bas.jpg "Birmingham Astronomical Society")
 
 ![Roper Mountain Astronomers](/images/uploads/rma2.jpg "Roper Mountain Astronomers")
+
+![Fannin County Chamber of Commerce](/images/uploads/fanninc-cvb-logo-web.png "Fannin County Chamber of Commerce")
