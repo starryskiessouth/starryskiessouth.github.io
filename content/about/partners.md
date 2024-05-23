@@ -12,7 +12,7 @@ Learn about the groups with whom we are partnered.
 
 ![Night Sky Coffee Roasters](/images/uploads/nsky_black_artboard-1large-002-.2.png "Night Sky Coffee Roasters")
 
-![IDA - North Carolina Chapter](/images/uploads/idanc.png "International Dark-Sky Association - North Carolina Chapter")
+![IDA - North Carolina Chapter](/images/uploads/idanc.png "DarkSky North Carolina")
 
 <!-- more -->
 
