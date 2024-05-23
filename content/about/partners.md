@@ -22,4 +22,4 @@ Learn about the groups with whom we are partnered.
 
 ![Roper Mountain Astronomers](/images/uploads/rma2.jpg "Roper Mountain Astronomers")
 
-![Fannin County Chamber of Commerce](/images/uploads/fanninc-cvb-logo-web.png "Fannin County Chamber of Commerce")
+![Fannin County Chamber of Commerce](/images/uploads/fanninc-cvb-logo-web.small.png "Fannin County Chamber of Commerce")
