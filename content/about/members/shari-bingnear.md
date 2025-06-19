@@ -3,7 +3,7 @@ title: Shari Bingnear
 description: Georgia Member
 image: /images/uploads/img_1646.2.jpg
 date: 2025-06-19
-weight: 795
+weight: 300
 sidebar_left: ""
 sidebar_right: list
 ---
