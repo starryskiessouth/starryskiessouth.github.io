@@ -3,7 +3,7 @@ title: Christie Gribble
 description: Georgia Member
 image: /images/uploads/headshot_5.jpg
 date: 2025-06-19
-weight: 450
+weight: 790
 sidebar_left: ""
 sidebar_right: list
 ---
