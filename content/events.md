@@ -4,7 +4,7 @@ menu: main
 date: 2022-07-16
 weight: 500
 ---
-Our monthly meetings take place virtually on the third Thursday of every month at 7 p.m. Central Time (8 p.m. Eastern).  If you would like to join our next meeting, please email info@starryskiessouth.org 
+Our quarterly meetings take place virtually on the third Thursday of every third month at 7 p.m. Central Time (8 p.m. Eastern).  If you would like to join our next meeting, please email info@starryskiessouth.org 
 
 ![]()
 
