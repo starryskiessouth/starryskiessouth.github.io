@@ -3,7 +3,7 @@ title: Lee Bane
 description: Georgia Member
 image: /images/uploads/bane_headshot.jpg
 date: 2025-06-19
-weight: 450
+weight: 780
 sidebar_left: ""
 sidebar_right: list
 ---
