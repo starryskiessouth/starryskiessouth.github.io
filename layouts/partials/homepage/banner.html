@@ -1,0 +1,28 @@
+{{- /*
+  Overrides the theme's banner to serve a resized background image instead of
+  the full-resolution upload referenced by the theme's stylesheet. The inline
+  <style> comes after the stylesheet, so it wins and the original is never
+  downloaded.
+*/ -}}
+{{- with .image }}
+  {{- with resources.Get (strings.TrimPrefix "/" .) }}
+    {{- $set := partial "responsive-img-set.html" . }}
+    {{- $small := $set.fallback }}
+    {{- $large := $small }}
+    {{- range $w, $r := $set.images }}{{ if gt $r.Width $large.Width }}{{ $large = $r }}{{ end }}{{ end }}
+    {{- $medium := index $set.images "1600" | default $large }}
+<style>
+  #banner { background-image: url({{ $large.RelPermalink | safeCSS }}); }
+  @media screen and (max-width: 1680px) { #banner { background-image: url({{ $medium.RelPermalink | safeCSS }}); } }
+  @media screen and (max-width: 980px) { #banner { background-image: url({{ $small.RelPermalink | safeCSS }}); } }
+</style>
+  {{- end }}
+{{- end }}
+<section id="banner">
+    <header>
+        <h2>{{ .contents | markdownify }}</h2>
+        {{- if .button }}
+            <a href="{{ .button.url }}" class="button">{{ .button.contents }}</a>
+        {{- end }}
+    </header>
+</section>

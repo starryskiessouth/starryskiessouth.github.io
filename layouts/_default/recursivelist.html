@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <header>
+        <h2>{{ .Title }}</h2>
+        {{ with .Description -}}
+            <p>{{ . }}</p>
+        {{- end }}
+    </header>
+
+    {{- if .Params.image }}
+        <span class="image featured">{{ partial "responsive-img.html" (dict "src" .Params.image "alt" .Params.image_alt "lazy" false) }}</span>
+    {{ end }}
+
+    {{ range .RegularPagesRecursive }}
+        {{ .Render "shortblock" }}
+    {{ end }}
+
+{{ end }}

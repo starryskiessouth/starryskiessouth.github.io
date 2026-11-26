@@ -1,0 +1,35 @@
+{{- /*
+  Given an image resource, returns a dict:
+    srcset   list of "url 800w" strings
+    images   map of width -> resized resource
+    fallback a mid-sized resource for the plain src attribute
+  Handles EXIF orientation (phone photos), since Hugo 0.95 strips EXIF when
+  resizing and would otherwise output them sideways.
+*/ -}}
+{{- $img := . -}}
+{{- $rotate := "" -}}
+{{- $w := $img.Width -}}
+{{- with $img.Exif -}}
+  {{- with .Tags.Orientation -}}
+    {{- $o := int . -}}
+    {{- if eq $o 3 }}{{ $rotate = " r180" }}{{ end -}}
+    {{- if eq $o 6 }}{{ $rotate = " r270" }}{{ $w = $img.Height }}{{ end -}}
+    {{- if eq $o 8 }}{{ $rotate = " r90" }}{{ $w = $img.Height }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- $widths := slice -}}
+{{- range (slice 480 800 1200 1600 2400) -}}
+  {{- if lt . $w }}{{ $widths = $widths | append . }}{{ end -}}
+{{- end -}}
+{{- /* Also include the original width, unless it's above the largest size. */ -}}
+{{- if le $w 2400 }}{{ $widths = $widths | append $w }}{{ end -}}
+{{- $srcset := slice -}}
+{{- $images := dict -}}
+{{- $fallback := false -}}
+{{- range $widths -}}
+  {{- $r := $img.Resize (printf "%dx webp q75%s" . $rotate) -}}
+  {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink .) -}}
+  {{- $images = merge $images (dict (string .) $r) -}}
+  {{- if or (not $fallback) (le . 1200) }}{{ $fallback = $r }}{{ end -}}
+{{- end -}}
+{{- return (dict "srcset" $srcset "images" $images "fallback" $fallback) -}}

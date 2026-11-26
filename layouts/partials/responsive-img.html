@@ -1,0 +1,38 @@
+{{- /*
+  Renders an <img> with a set of resized WebP versions so browsers download
+  only the size they need.
+
+  Usage:
+    {{ partial "responsive-img.html" (dict "src" .Params.image "alt" .Params.image_alt) }}
+
+  Params:
+    src    path like "/images/uploads/foo.jpg" (required)
+    alt    alt text
+    title  title attribute
+    sizes  value for the sizes attribute (default: full content width)
+    class  class attribute
+    lazy   set to false to disable lazy loading (default: true)
+
+  Uploads live in static/images/uploads and are also mounted at
+  assets/images/uploads (see config), which is what lets Hugo resize them.
+  Anything not found there (external URLs, GIFs, SVGs) is output unchanged.
+*/ -}}
+{{- $src := .src -}}
+{{- $sizes := .sizes | default "(max-width: 980px) 100vw, 980px" -}}
+{{- $lazy := true -}}
+{{- if eq .lazy false }}{{ $lazy = false }}{{ end -}}
+{{- $img := false -}}
+{{- if and $src (not (strings.Contains $src "://")) -}}
+  {{- $img = resources.Get (strings.TrimPrefix "/" $src) -}}
+{{- end -}}
+{{- $attrs := "" -}}
+{{- with .alt }}{{ $attrs = printf "%s alt=%q" $attrs . }}{{ else }}{{ $attrs = printf "%s alt=\"\"" $attrs }}{{ end -}}
+{{- with .title }}{{ $attrs = printf "%s title=%q" $attrs . }}{{ end -}}
+{{- with .class }}{{ $attrs = printf "%s class=%q" $attrs . }}{{ end -}}
+{{- if $lazy }}{{ $attrs = printf "%s loading=\"lazy\" decoding=\"async\"" $attrs }}{{ end -}}
+{{- if and $img (in (slice "jpeg" "png" "webp") $img.MediaType.SubType) -}}
+  {{- $set := partial "responsive-img-set.html" $img -}}
+  <img src="{{ $set.fallback.RelPermalink }}" srcset="{{ delimit $set.srcset ", " }}" sizes="{{ $sizes }}"{{ safeHTMLAttr $attrs }}>
+{{- else -}}
+  <img src="{{ $src | relURL }}"{{ safeHTMLAttr $attrs }}>
+{{- end -}}

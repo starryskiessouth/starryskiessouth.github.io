@@ -1,0 +1,18 @@
+<section class="col-6 col-12-narrower">
+    <div class="box post">
+        <a href="{{ .RelPermalink }}" class="image left">{{ partial "responsive-img.html" (dict "src" .Params.image "alt" .Params.image_alt "sizes" "(max-width: 736px) 35vw, 300px") }}</a>
+        <div class="inner">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ if .Site.Params.show_post_dates | default true }}
+                {{- with .Date }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}
+            {{ end }}
+            <p>
+                {{ with .Description }}
+                    {{- . }}
+                {{- else }}
+                    {{- .Summary }}
+                {{- end }}
+            </p>
+        </div>
+    </div>
+</section>
