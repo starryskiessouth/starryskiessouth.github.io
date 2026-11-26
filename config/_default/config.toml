@@ -79,3 +79,18 @@ copyright = "Starry Skies South"
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+
+# Expose CMS uploads to Hugo's asset pipeline so templates can resize them
+# (see layouts/partials/responsive-img.html). Declaring any mount replaces the
+# defaults for that target, so the default static and assets mounts are
+# re-declared too. Originals are still published as static files.
+[module]
+    [[module.mounts]]
+        source = "static"
+        target = "static"
+    [[module.mounts]]
+        source = "assets"
+        target = "assets"
+    [[module.mounts]]
+        source = "static/images/uploads"
+        target = "assets/images/uploads"
